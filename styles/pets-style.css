@@ -1,4 +1,22 @@
 
-body{
+#winston{
+    width: 25%;
+    border-radius: 15px;
+}
+
+#heading{
+    color: blue;
+}
+
+#charityLink{
+    text-decoration: underline;
+    color: blue;
+}
+
+a:hover{
+    color: blue;
+}
+
+#background{
     background-color: plum;
 }
